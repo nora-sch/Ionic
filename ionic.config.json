@@ -1,5 +1,7 @@
 {
   "name": "CoursIonicENI",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
